@@ -3,7 +3,7 @@
 ## Background
 
 ## Goal(s)
-### List 2-3 
+### List 2-3 goals
 
 ## Data Collection and Data Cleaning
 ### Describe data shape
