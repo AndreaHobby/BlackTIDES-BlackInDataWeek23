@@ -1,4 +1,4 @@
-# BlackTIDES-BlackInDataWeek23 Presentation
+# BlackTIDES-BlackInDataWeek23 Data Science Project Template
 
 ## Background
 
@@ -21,5 +21,12 @@
 ## References
 
 ## Repo Structure(optional)
+```
+├── /data (data)
+├── /img (contains all images for repo)
+├── 1-DataCleanManip.py
+├── 2-DataModeling.py
+├── README.md
+└── dataset.csv
 
 
