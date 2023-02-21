@@ -10,11 +10,19 @@
 ### Describe cleaning process
 ### Describe data science pipeline 
 
+## Feature Selection
+### Discuss feature selection process 
+
 ## Modeling
+### Discuss model selection process
+### Discuss hyperparameter tuning 
 
 ## Results
+### Discuss Model Evaluation
+
 
 ## Final Thoughts
+### Discuss any obstacles in developing the model and how you overcame them
 
 ## Next Steps
 
