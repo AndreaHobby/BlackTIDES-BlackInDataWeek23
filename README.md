@@ -8,7 +8,7 @@
 5. [Modeling](#modeling)
 6. [Results](#Results)
 7. [Final Thoughts](#FinalThoughts)
-8. [Next Steps](#Next Steps)
+8. [Next Steps](#NextSteps)
 9. [References](#References)
 10. [Repo Structure](#repo)
 
