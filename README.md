@@ -43,7 +43,14 @@
 <a name="Results"/>
 
 ## Results
-### Discuss Model Evaluation
+### Discuss Model Evaluation Including:
+- Accuracy and other metrics
+- Confusion matrix
+- Cross-validation
+- Bias and variance trade-off
+- Overfitting and underfitting
+- Feature importance
+- Interpretability
 
 <a name="FinalThoughts"/>
 
