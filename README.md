@@ -63,6 +63,12 @@
 <a name="NextSteps"/>
 
 ## Next Steps
+#### Here are some options:
+- Increase the amount of data
+- Incorporate more features
+- Experiment with different algorithms
+- Validate the model on a different dataset
+- Develop a user interface
 
 <a name="References"/>
 
