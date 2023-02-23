@@ -16,6 +16,7 @@
 <a name="background"/>
 
 ## Background
+### Describe the background of the problem you are trying to solve and why it is important. 
 
 <a name="goals"/>
 
