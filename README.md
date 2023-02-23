@@ -57,7 +57,8 @@
 <a name="FinalThoughts"/>
 
 ## Final Thoughts
-### Discuss any obstacles in developing the model and how you overcame them
+- Discuss any obstacles in developing the model and how you overcame them
+- Pros/Cons of each decision you made throughout the project and what you have learned overall from the project
 
 <a name="NextSteps"/>
 
