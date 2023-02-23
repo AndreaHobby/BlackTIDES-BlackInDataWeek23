@@ -26,9 +26,10 @@
 <a name="DataCollectionandDataCleaning"/>
 
 ## Data Collection and Data Cleaning
+### Describe where the data came from
 ### Describe data shape
 ### Describe cleaning process
-### Describe data science pipeline 
+### Describe data science pipeline (include image if you have one)
 
 <a name="FeatureSelection"/>
 
