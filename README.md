@@ -16,36 +16,36 @@
 <a name="background"/>
 
 ## Background
-### Describe the background of the problem you are trying to solve and why it is important. 
+- Describe the background of the problem you are trying to solve and why it is important. 
 
 <a name="goals"/>
 
 ## Goal(s)
-### List 2-3 goals
+- List 2-3 goals
 
 <a name="DataCollectionandDataCleaning"/>
 
 ## Data Collection and Data Cleaning
-### Describe where the data came from
-### Describe data shape
-### Describe cleaning process
-### Describe data science pipeline (include image if you have one)
+- Describe where the data came from
+- Describe data shape
+- Describe cleaning process
+- Describe data science pipeline (include image if you have one)
 
 <a name="FeatureSelection"/>
 
 ## Feature Selection
-### Discuss feature selection process 
+- Discuss feature selection process 
 
 <a name="modeling"/>
 
 ## Modeling
-### Discuss model selection process
-### Discuss hyperparameter tuning 
+- Discuss model selection process
+- Discuss hyperparameter tuning 
 
 <a name="Results"/>
 
 ## Results
-### Discuss Model Evaluation Including:
+#### Discuss Model Evaluation Including:
 - Accuracy and other metrics
 - Confusion matrix
 - Cross-validation
