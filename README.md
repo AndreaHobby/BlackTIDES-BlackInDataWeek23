@@ -4,7 +4,7 @@
 1. [Background](#background)
 2. [Goals](#goals)
 3. [Data Collection and Data Cleaning](#DataCollectionandDataCleaning)
-4. [Feature Selection](#FeatureSelection)
+4. [Feature Engineering and Selection](#FeatureSelection)
 5. [Modeling](#modeling)
 6. [Results](#Results)
 7. [Final Thoughts](#FinalThoughts)
