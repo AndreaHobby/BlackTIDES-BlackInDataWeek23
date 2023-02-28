@@ -33,7 +33,8 @@
 
 <a name="FeatureSelection"/>
 
-## Feature Selection
+## Feature Selection/Feature Engineering 
+- Discuss feature engineering process 
 - Discuss feature selection process 
 
 <a name="modeling"/>
