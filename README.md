@@ -29,6 +29,7 @@
 - Describe where the data came from
 - Describe data shape
 - Describe cleaning process
+- Discuss if there is missing data and how you approached dealing with it
 - Describe data science pipeline (include image if you have one)
 
 <a name="FeatureSelection"/>
